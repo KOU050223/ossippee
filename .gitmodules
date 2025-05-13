@@ -1,0 +1,12 @@
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/KOU050223/ossippee_Unity
+[submodule "React"]
+	path = React
+	url = git@github.com:KOU050223/ossippee_React.git
+[submodule "Line"]
+	path = Line
+	url = git@github.com:KOU050223/ossippee_line.git
+[submodule "Flutter"]
+	path = Flutter
+	url = git@github.com:ikinoiiiseebi/ossippee_flutter.git
